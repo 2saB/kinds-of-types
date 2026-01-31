@@ -1,4 +1,4 @@
-package kindsoftypes;
+ package kindsoftypes;
 
 public class ObjectTypes {
     public static void main(String[] args) {
